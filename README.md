@@ -9,4 +9,4 @@ The Aarhus University Signal Processing group, in collaboration with University 
 <li> Model Evaluation🧪 </li>
 <br> We've use <b>InceptionResNetV2</b> in this model to determine each pictures for main model and after that we've <b>flatten and dense the main model</b> and finally we've got score of model for <b>0.97229</b> (calculated by Kaggle)
 
-<br>for more detail you can see in this <a href="https://www.kaggle.com/code/sirintornphachai/dsi206-plant-seedlings-classification)https://www.kaggle.com/code/sirintornphachai/dsi206-plant-seedlings-classification" >Kaggle</a> 😊
+<br>for more detail you can see in this <a href="https://www.kaggle.com/code/sirintornphachai/dsi206-plant-seedlings-classification" >Kaggle</a> 😊
